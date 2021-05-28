@@ -7,8 +7,12 @@
     <title>Coba Remote Lagi Ahh...</title>
 </head>
 <body>
-<h1>Hello Zack</h1>
-<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error hic voluptatem voluptatum soluta maiores laborum velit ea unde magni illum officiis possimus, alias nam fugit. Quia reprehenderit repellat nobis itaque.</p>
+    <h1>Hello Zack</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error hic voluptatem voluptatum soluta maiores laborum velit ea unde magni illum officiis possimus, alias nam fugit. Quia reprehenderit repellat nobis itaque.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
     
 </body>
 </html>
